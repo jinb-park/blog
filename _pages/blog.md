@@ -1,6 +1,6 @@
 ---
-permalink: /
+permalink: /blog
 layout: home
-title: home
+title: blog
 list_title: posts
 ---
