@@ -1,3 +1,9 @@
+---
+title: "Finite field for developers"
+date: 2020-03-22
+layout: post
+---
+
 # What is finite field?
 
 Finite field, also known as Galois field, is a finite set, which means multiplication, division, addition, and subtraction are defined and satisfied in a finite set. Take a prime P = 7, and an integer modulo P falls down to one of 0~6 ({0,1,2,3,4,5,6}). Let this set be S (derive from (mod P)). S can also be denoted GF(7), and the aforementioned four operations are performed as follows. Take a=4 and b=5 as examples in GF(7) and throw them into the four operations and see how it works.
