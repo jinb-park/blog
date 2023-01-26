@@ -1,6 +1,6 @@
 ---
 title: "Finite field for developers"
-date: 2020-03-22
+date: 2022-09-06
 layout: post
 ---
 
