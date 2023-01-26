@@ -1,16 +1,16 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: Jinbum Park Blog
+description: Computer security
+author: "Jinbum Park"
 
 theme: minima
 
-base_url: /gh-pages-minima-starter
+base_url: /blog
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+twitter_username: jinb_park
+github_username: jinb-park
+linkedin_username: jinbum-park
+#rss: rss
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
